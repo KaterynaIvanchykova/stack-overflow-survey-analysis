@@ -26,4 +26,5 @@ This project explores the Stack Overflow Developer Survey dataset using Python a
 - Salary Analysis by Country
 - ## Heatmap Example
 
-![Heatmap](images/python_age_heatmap.png)
+![Heatmap](graph.png)
+![Heatmap](salary.png)
