@@ -24,4 +24,6 @@ This project explores the Stack Overflow Developer Survey dataset using Python a
 - Remote Work Analysis
 - Python Popularity by Age Heatmap
 - Salary Analysis by Country
-- 
+- ## Heatmap Example
+
+![Heatmap](images/python_age_heatmap.png)
